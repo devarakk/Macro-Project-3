@@ -1,5 +1,6 @@
 # Macro-Project-3
 **Part 1**
+
 **Data sources**
 
 Data for part 1 came from the OECD's economic outlook.
@@ -11,3 +12,7 @@ The python script details the instructions for cleaning and analyzing the data. 
 **Instructions for reproducing results**
 
 Go to the OECD Data Explorer and download the variables specified in the paper for Germany, Australia, and the United States. The frequency must be quarterly and data goes back to 2002. Then run the Python Script to clean and analyze the data, including producing standard deviations, correlations, and graphs.
+
+**Part 2**
+
+**Part 3**
