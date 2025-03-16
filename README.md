@@ -19,4 +19,11 @@ Go to the OECD Data Explorer and download the variables specified in the paper f
 All data used in part 2 came form the St.Louis Fed data base (FRED)
 
 The percentages calculated are relative change in percentage from one period to another.
+
 **Part 3**
+
+Data for part three came from the WRDS website, specifically the compustat resource. 
+
+**Steps for cleaning, analysis, and reproduction**
+
+The python code walks through the analysis of the data. The data needs a standardized date format and then to be broken into the three periods, pre, during, and post GFC. From there it is just a matter of putting the information into a table and graphing. Pulling the data from the website requires an account or a day pass that must be authorized by the company. 
