@@ -14,5 +14,9 @@ The python script details the instructions for cleaning and analyzing the data. 
 Go to the OECD Data Explorer and download the variables specified in the paper for Germany, Australia, and the United States. The frequency must be quarterly and data goes back to 2002. Then run the Python Script to clean and analyze the data, including producing standard deviations, correlations, and graphs.
 
 **Part 2**
+**Data Sources**
 
+All data used in part 2 came form the St.Louis Fed data base (FRED)
+
+The percentages calculated are relative change in percentage from one period to another.
 **Part 3**
